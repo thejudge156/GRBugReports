@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>ControlFlowTypeMerge</module>
+        <module>ClassLoaderAwareResourceRelativePaths</module>
     </modules>
 
     <properties>
